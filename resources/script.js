@@ -89,4 +89,4 @@ image1top.addEventListener("click", randomlayer1top);
 image1bottom.addEventListener("click", randomlayer1bottom);
 image2.addEventListener("click", randomlayer2);
 image3.addEventListener("click", randomlayer3);
-image3.addEventListener("click", randomlayer3);
+image4.addEventListener("click", randomlayer4);
